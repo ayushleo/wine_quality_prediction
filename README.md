@@ -39,7 +39,6 @@ Sulphates	Antioxidant level
 Alcohol	Alcohol percentage
 Quality (Target)	Sensory score (0–10)
 
-📌 Place your dataset in the /data folder with the filename winequality.csv.
 
 🛠️ Technologies Used
 
@@ -57,26 +56,6 @@ matplotlib / seaborn
 
 scikit-learn
 
-(Add others you used if needed.)
-
-🚀 Getting Started
-✅ 1. Clone the Repository
-git clone https://github.com/your-username/wine-quality-prediction.git
-cd wine-quality-prediction
-
-✅ 2. Create Virtual Environment (Optional but Recommended)
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
-
-✅ 3. Install Dependencies
-pip install -r requirements.txt
-
-
-(If you don’t have a requirements.txt, list the libraries manually.)
-
-✅ 4. Run the Notebook
-jupyter notebook wine-quality-prediction.ipynb
 
 📈 Model Workflow
 
@@ -92,7 +71,7 @@ Train models (Random Forest, Linear Regression, etc.)
 
 Evaluate using metrics (RMSE, MAE, R² or Accuracy/F1 if classified)
 
-✅ Example Metrics (Customizable)
+✅ Example Metrics 
 
 Accuracy: 0.87
 
