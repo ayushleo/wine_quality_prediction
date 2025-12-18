@@ -71,17 +71,6 @@ Train models (Random Forest, Linear Regression, etc.)
 
 Evaluate using metrics (RMSE, MAE, R² or Accuracy/F1 if classified)
 
-✅ Example Metrics 
-
-Accuracy: 0.87
-
-RMSE: 0.62
-
-R² Score: 0.82
-
-Top features: Alcohol, Volatile acidity, Sulphates
-
-(Replace with your actual results.)
 
 🌟 Future Enhancements
 
